@@ -1,0 +1,11 @@
+INSERT INTO superheros(id, name, real_name, gender, universe_id)
+VALUES(1, 'SpiderMan', 'Peter Benjamin Parker', 'Male', 4),
+(2, 'Hulk', 'Robert Bruce Banner', 'Male', 4),
+(3, 'Captain America', 'Steven Rogers', 'Male', 4),
+(4, 'Superman', 'Clark Kent', 'Male', 2), 
+(5, 'Batman', 'Bruce Wayne', 'Male', 1),
+(6, 'Scarlet Spider', 'Ben Reilly', 'Male', 5), 
+(7, 'Wonder Woman', 'Diana Prince', 'Female', 1), 
+(8, 'Doomsday', NULL, 'Male', 3), 
+(9, 'Scarlet Witch', 'Wanda Maximoff', 'Female', 5),
+(10, 'Night Wing', 'Dick Grayson', 'Male', 3)
